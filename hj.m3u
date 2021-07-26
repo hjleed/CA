@@ -1,8 +1,4 @@
 #EXTM3U
-
-
-
-
 #EXTINF:-1 tvg-id="Libya 218" tvg-name="Libya 218" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/N9dO8AE.png" group-title="Libya",Libya 218,LIBYA 218 218 (1920×1080)
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="Libya Al Hadath" tvg-name="Libya Al Hadath" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/L8abziX.png" group-title="Libya",Al Hadath
@@ -357,9 +353,6 @@ http://82.212.74.2:8000/live/7312.m3u8
 http://178.33.88.129:888/udp/239.102.0.21:1234
 #EXTINF:-1 tvg-id="bein sport 3" tvg-name="beIN sport" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports", bein sport 3
 http://178.33.88.129:888/udp/239.102.0.22:1234
-
-
-
 #EXTINF:-1 tvg-id="BelqeesTV.ye" tvg-name="Belqees TV" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title="",Belqees TV
 https://linkastream.co/headless?url=https://www.youtube.com/c/BelqeesTV/live
 #EXTINF:-1 tvg-id="CanadianArabTV.ca" tvg-name="Canadian Arab TV" tvg-country="CA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="",Canadian Arab TV
